@@ -23,7 +23,7 @@ repository               : "zhangshanbo/zhangshanbo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://imgur.com/a/9KNJXYS"
   name             : "Zhang Shanbo"
   pronouns         : # example: "he/him"  
   bio              : "Per aspera ad astra"
